@@ -35,6 +35,11 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 [![Free Coding school 42 Roma Luiss](https://ytcards.demolab.com/?id=MwQ0aK4g_kY&ab_channel=AlessioTucci&title=Free+coding+school+42+Roma&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=779 "Free coding school 42 Roma")](https://youtu.be/MwQ0aK4g_kY)
 
+
+[![](https://ytcards.demolab.com/?id=a7vnb1bWA0A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "")](https://youtube.com/shorts/a7vnb1bWA0A?feature=share)
+
+<!-- END YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCM2h6Ak0urjOKVlKLc2deJQ?sub_confirmation=1)
