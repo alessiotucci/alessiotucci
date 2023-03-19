@@ -51,7 +51,7 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 ![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessiotucci&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+[![atucci's 42 stats](https://badge.mediaplus.ma/darkblue/atucci?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 #
 
 <details>
