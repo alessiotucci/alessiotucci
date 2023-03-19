@@ -1,4 +1,4 @@
-# 🏄‍♂️ Alessio Tucci
+# 😎 Alessio Tucci
 
 **` aspiring Developer (Developer/communication major/Creator)`**
 
