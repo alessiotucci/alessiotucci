@@ -6,7 +6,7 @@ Alright, alright. So here's the deal. I've got some experience in communication 
 I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4 subscribers.
 
    <p align="left">
-     
+  <a href="https://www.tiktok.com/@tuccialessio"><img src="https://img.shields.io/badge/tiktok-%23FF0000.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=2C2E3B" /></a>
   <a href="https://www.facebook.com/alessio.tucci.33"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/alessiotucci_/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tuccialessio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
