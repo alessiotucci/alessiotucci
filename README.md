@@ -33,7 +33,7 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Latest  Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
