@@ -37,6 +37,10 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 ### 💡 I will learn 
 
+<img align="left" alt="c++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+
+<img align="left" alt="c#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+
 <img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 
 <img align="left" alt="xamarin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" />
@@ -44,10 +48,6 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />
 
 <img align="left" alt="dotnetcore" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
-
-<img align="left" alt="c++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-
-<img align="left" alt="c#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 
 <img align="left" alt="visual studio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 
