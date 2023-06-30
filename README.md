@@ -76,6 +76,8 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 [![atucci's 42 stats](https://badge.mediaplus.ma/darkblue/atucci?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+![atucci's 42 stats](https://github.com/alessiotucci/piscine-42-/assets/116757689/42a84951-d67d-4b8c-ace4-1c387c7f5054)
+
 #
 
 <details>
