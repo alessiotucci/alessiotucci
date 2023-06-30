@@ -51,6 +51,8 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 <img align="left" alt="visual studio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 
+
+
 <br />
 
 
