@@ -1,6 +1,6 @@
 # 😎 Alessio Tucci
 
-**` aspiring Developer (Developer/communication major/Creator)`**
+**` aspiring Developer (Developer, Communication major, Creator)`**
 
 Alright, alright, So here's the deal. I've got some experience in communication and basic work under my belt, plus I did some study abroad in the US and Lithuania. I even started a Computer Science program where I'm learning C and the basics of coding. And when I'm not doing that, I like to mess around with photos, vlogging, and even TikTok. Not too shabby, if I do say so myself.
 I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4 subscribers.
