@@ -1,3 +1,5 @@
+![Screenshot from 2023-08-08 12-01-08](https://github.com/alessiotucci/alessiotucci/assets/116757689/2e6f4ff7-1582-4570-8ee0-47faec8fbaca)
+
 # 😎 Alessio Tucci
 
 **` aspiring Developer (Developer, Communication major, Creator)`**
