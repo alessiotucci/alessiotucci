@@ -2,6 +2,7 @@
 
 # 😎 Alessio Tucci
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I+am+listening+on+spotify)](https://git.io/typing-svg)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&redirect=true)
 
 **` aspiring Developer (Developer, Communication major, Creator)`**
