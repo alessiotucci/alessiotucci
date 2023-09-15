@@ -2,6 +2,8 @@
 
 # 😎 Alessio Tucci
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&redirect=true)
+
 **` aspiring Developer (Developer, Communication major, Creator)`**
 
 Alright, alright, So here's the deal. I've got some experience in communication and basic work under my belt, plus I did some study abroad in the US and Lithuania. I even started a Computer Science program where I'm learning C and the basics of coding. And when I'm not doing that, I like to mess around with photos, vlogging, and even TikTok. Not too shabby, if I do say so myself.
@@ -21,6 +23,8 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
       <a href="https://github.com/alessiotucci?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alessiotucci?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+
 
 ---
 
