@@ -2,8 +2,7 @@
 
 # 😎 Alessio Tucci
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I+am+listening+on+spotify)](https://git.io/typing-svg)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&redirect=true)
+
 
 **` aspiring Developer (Developer, Communication major, Creator)`**
 
@@ -77,6 +76,11 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 #
 
+### 🎶 Music
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I+am+listening+on+spotify)](https://git.io/typing-svg)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=alessiotucci33&redirect=true)
+
+---
 ### 📊 Stats
 
 
@@ -84,7 +88,7 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 [![atucci's 42 stats](https://badge.mediaplus.ma/darkblue/atucci?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-[![github stat's](https://github.com/alessiotucci/piscine-42-/assets/116757689/42a84951-d67d-4b8c-ace4-1c387c7f5054)
+![github stat's](https://github.com/alessiotucci/piscine-42-/assets/116757689/42a84951-d67d-4b8c-ace4-1c387c7f5054)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alessiotucci&theme=vue&hide_border=true)](https://git.io/streak-stats)
