@@ -49,7 +49,6 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 <img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
 
-<img align="left" alt="xamarin" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg" />
 
 <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />
 
@@ -58,6 +57,8 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 <img align="left" alt="visual studio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 
 <img align="left" alt="visual studio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
+
+<img align="left" alt="visual studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" />
 
 <br />
 
