@@ -67,8 +67,7 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![Free Coding school 42 Roma Luiss](https://ytcards.demolab.com/?id=MwQ0aK4g_kY&ab_channel=AlessioTucci&title=Free+coding+school+42+Roma&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=779 "Free coding school 42 Roma")](https://youtu.be/MwQ0aK4g_kY) [![](https://ytcards.demolab.com/?id=a7vnb1bWA0A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "")](https://youtube.com/shorts/a7vnb1bWA0A?feature=share)
-
+[![Free Coding school 42 Roma Luiss](https://ytcards.demolab.com/?id=MwQ0aK4g_kY&ab_channel=AlessioTucci&title=Free+coding+school+42+Roma&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=779 "Free coding school 42 Roma")](https://youtu.be/MwQ0aK4g_kY) [![my project overview](https://ytcards.demolab.com/?id=QVobB3pZoIY&ab_channel=AlessioTucci&title=Fdf+project+overview+42)](https://youtu.be/QVobB3pZoIY?feature=shared)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
