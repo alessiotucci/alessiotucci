@@ -27,12 +27,13 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/>
+<img align="left" alt="Perl" width="30px" style="padding-right:10px;" src="https://github.com/alessiotucci/alessiotucci/assets/116757689/b7a0e8ce-0e3d-4a42-9fca-f117fc9d75f5"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />
 <img align="left" alt="Gcc" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/alessiotucci/alessiotucci/assets/116757689/5a3c79c8-302f-416a-a786-c1a3b5faeb34" />
+<img align="left" alt="Make" width="30px" style="padding-right:10px;" src="https://github.com/alessiotucci/alessiotucci/assets/116757689/5a3c79c8-302f-416a-a786-c1a3b5faeb34" />
 
 <br />
 
