@@ -1,6 +1,8 @@
 ![Screenshot from 2023-08-08 12-01-08](https://github.com/alessiotucci/alessiotucci/assets/116757689/2e6f4ff7-1582-4570-8ee0-47faec8fbaca)
 
-# 😎 Alessio Tucci
+# 😎 Alessio Tucci    
+![](https://komarev.com/ghpvc/?username=alessiotucci&style=flat-square)
+
 
 
 
@@ -14,7 +16,7 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
   <a href="https://www.facebook.com/alessio.tucci.33"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/alessiotucci_/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tuccialessio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://www.youtube.com/channel/UCM2h6Ak0urjOKVlKLc2deJQ?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCM2h6Ak0urjOKVlKLc2deJQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+<a href="https://www.youtube.com/channel/UCM2h6Ak0urjOKVlKLc2deJQ?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCM2h6Ak0urjOKVlKLc2deJQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    <a href="https://www.youtube.com/channel/UCM2h6Ak0urjOKVlKLc2deJQ"><img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCM2h6Ak0urjOKVlKLc2deJQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <a href="https://github.com/alessiotucci?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/alessiotucci?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/alessiotucci?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alessiotucci?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
