@@ -29,6 +29,8 @@ I publish content on my YouTube channel "[AlessioTucci][youtube]" to more than 4
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/>
+<img align="left" alt="Perl" width="30px" style="padding-right:10px;" 
+src="https://github.com/devicons/devicon/blob/v2.15.1/icons/perl/perl-original.svg"/>
 <img align="left" alt="Perl" width="30px" style="padding-right:10px;" src="https://github.com/alessiotucci/alessiotucci/assets/116757689/b7a0e8ce-0e3d-4a42-9fca-f117fc9d75f5"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
