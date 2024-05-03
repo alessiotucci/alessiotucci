@@ -72,8 +72,6 @@ src="https://github.com/devicons/devicon/blob/v2.15.1/icons/perl/perl-original.s
 
 [![Free Coding school 42 Roma Luiss](https://ytcards.demolab.com/?id=MwQ0aK4g_kY&ab_channel=AlessioTucci&title=Free+coding+school+42+Roma&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=779 "Free coding school 42 Roma")](https://youtu.be/MwQ0aK4g_kY) [![my project overview](https://ytcards.demolab.com/?id=QVobB3pZoIY&ab_channel=AlessioTucci&title=Fdf+project+overview+42&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1643)](https://youtu.be/QVobB3pZoIY?feature=shared)[![My failure as Programmer](https://ytcards.demolab.com/?id=lnqH3hP8PDE&ab_channel=AlessioTucci&title=How+to+fail+at+coding+42+project&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=449 "Failing project ")](https://youtu.be/lnqH3hP8PDE?feature=shared)
 [![Learn perl in 2024](https://ytcards.demolab.com/?id=WJfoO0dWFko&ab_channel=AlessioTucci&title=Why+learn+Perl+in+2024&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=360 "Learn perl in 2024 ")](https://youtu.be/WJfoO0dWFko?feature=shared)
-
-
 [![Why learn vim as 42 student](https://ytcards.demolab.com/?id=5NryrOXq0ZM&ab_channel=AlessioTucci&title=Why+I+use+Vim+as+42+student&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=916 "")](https://www.youtube.com/watch?v=5NryrOXq0ZM)
 <!-- END YOUTUBE-CARDS -->
 
